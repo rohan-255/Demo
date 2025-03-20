@@ -1,3 +1,3 @@
 # Demo
-for demo practice.
+for demo-practice.
 learning github.
